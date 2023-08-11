@@ -1,7 +1,7 @@
 namespace exemplo2 {
     // VAR - SEM TANTA SEGURANÇA, LET - PRIVADO PARA FUNÇÃO, CONT - CONSTANTE
-    let numero: number;
-    numero + 5;
+    let numero: number, numero2: number, numero3:number;
+    numero = 5;
 
     let resultado: number;
     resultado = numero + numero;
